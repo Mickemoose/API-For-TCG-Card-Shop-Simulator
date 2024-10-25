@@ -23,7 +23,6 @@
 *.lo
 
 # Shared objects (inc. Windows DLLs)
-*.dll
 *.so
 *.so.*
 *.dylib
@@ -50,25 +49,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-API-For-TCG-Card-Shop-Simulator/obj/API For TCG Card Shop Simulator.csproj.nuget.dgspec.json
-API-For-TCG-Card-Shop-Simulator/obj/API For TCG Card Shop Simulator.csproj.nuget.g.props
-API-For-TCG-Card-Shop-Simulator/obj/API For TCG Card Shop Simulator.csproj.nuget.g.targets
-API-For-TCG-Card-Shop-Simulator/obj/Debug/netstandard2.1/.NETStandard,Version=v2.1.AssemblyAttributes.cs
-API-For-TCG-Card-Shop-Simulator/obj/Debug/netstandard2.1/API For TCG Card Shop Simulator.AssemblyInfo.cs
-API-For-TCG-Card-Shop-Simulator/obj/Debug/netstandard2.1/API For TCG Card Shop Simulator.AssemblyInfoInputs.cache
-API-For-TCG-Card-Shop-Simulator/obj/Debug/netstandard2.1/API For TCG Card Shop Simulator.assets.cache
-API-For-TCG-Card-Shop-Simulator/obj/Debug/netstandard2.1/API For TCG Card Shop Simulator.csproj.AssemblyReference.cache
-API-For-TCG-Card-Shop-Simulator/obj/Debug/netstandard2.1/API For TCG Card Shop Simulator.GeneratedMSBuildEditorConfig.editorconfig
-API-For-TCG-Card-Shop-Simulator/obj/Debug/netstandard2.1/PluginInfo.cs
-API-For-TCG-Card-Shop-Simulator/obj/Debug/netstandard2.1/publicized/BepInEx.dll.md5
-API-For-TCG-Card-Shop-Simulator/obj/Debug/netstandard2.1/publicized/Mono.Cecil.dll.md5
-API-For-TCG-Card-Shop-Simulator/obj/Debug/netstandard2.1/publicized/UnityEngine.CoreModule.dll.md5
-API-For-TCG-Card-Shop-Simulator/obj/Debug/netstandard2.1/publicized/UnityEngine.dll.md5
-API-For-TCG-Card-Shop-Simulator/obj/Debug/netstandard2.1/publicized/UnityEngine.InputLegacyModule.dll.md5
-API-For-TCG-Card-Shop-Simulator/obj/project.assets.json
-API-For-TCG-Card-Shop-Simulator/obj/project.nuget.cache
-API-For-TCG-Card-Shop-Simulator/obj/API For TCG Card Shop Simulator.csproj.nuget.dgspec.json
-API-For-TCG-Card-Shop-Simulator/obj/API For TCG Card Shop Simulator.csproj.nuget.g.props
-API-For-TCG-Card-Shop-Simulator/obj/API For TCG Card Shop Simulator.csproj.nuget.g.targets
-API-For-TCG-Card-Shop-Simulator/obj/project.assets.json
-API-For-TCG-Card-Shop-Simulator/obj/project.nuget.cache
+API-For-TCG-Card-Shop-Simulator/bin
+BepInEx PreLoad Patch for TCG Card Shop Simulator/Bepinex Preload Patch/bin
